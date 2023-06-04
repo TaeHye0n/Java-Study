@@ -1,6 +1,11 @@
-package sec12.exam02;
+package sec12_thread.exam02;
 
-public class ThreadB extends Thread{
+public class ThreadA extends Thread{
+
+    public ThreadA(){
+        setName("ThreadA");
+    }
+
     @Override
     public void run(){
         for(int i = 0; i < 2; i++) {

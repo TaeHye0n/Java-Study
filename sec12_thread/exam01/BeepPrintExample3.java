@@ -1,4 +1,4 @@
-package sec12.exam01;
+package sec12_thread.exam01;
 
 import java.awt.*;
 

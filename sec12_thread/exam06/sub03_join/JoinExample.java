@@ -1,4 +1,4 @@
-package sec12.exam06.sub03_join;
+package sec12_thread.exam06.sub03_join;
 
 public class JoinExample {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package sec12.exam02;
+package sec12_thread.exam02;
 
 public class ThreadNameExample {
     public static void main(String[] args) {

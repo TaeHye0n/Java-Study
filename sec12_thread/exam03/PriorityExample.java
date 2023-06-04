@@ -1,4 +1,4 @@
-package sec12.exam03;
+package sec12_thread.exam03;
 
 public class PriorityExample {
     public static void main(String[] args) {

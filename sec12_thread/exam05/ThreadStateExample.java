@@ -1,4 +1,4 @@
-package sec12.exam05;
+package sec12_thread.exam05;
 
 public class ThreadStateExample {
     public static void main(String[] args) {

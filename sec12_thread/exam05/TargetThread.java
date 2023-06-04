@@ -1,4 +1,4 @@
-package sec12.exam05;
+package sec12_thread.exam05;
 
 public class TargetThread extends Thread{
     @Override

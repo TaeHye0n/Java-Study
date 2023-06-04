@@ -1,4 +1,4 @@
-package sec12.exam03;
+package sec12_thread.exam03;
 
 public class CalcThread extends Thread{
     public CalcThread(String name){

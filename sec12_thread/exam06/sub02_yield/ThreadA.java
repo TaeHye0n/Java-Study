@@ -1,4 +1,4 @@
-package sec12.exam06.sub02_yield;
+package sec12_thread.exam06.sub02_yield;
 
 public class ThreadA extends Thread{
     public boolean stop = false;
