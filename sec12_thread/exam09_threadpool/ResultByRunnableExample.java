@@ -27,8 +27,9 @@ public class ResultByRunnableExample {
                 result.addValue(sum);
             }
         }
-
+        // 공유 객체(외부 객체_
         Result result = new Result();
+        // 두개의 작업을 정의
         Runnable task1 = new Task(result);
         Runnable task2 = new Task(result);
         Future<Result> future1 = executorService.submit(task1, result);
